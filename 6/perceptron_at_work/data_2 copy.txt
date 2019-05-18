@@ -1,0 +1,7 @@
+# A box within a box
+# Inner box: -1
+# Outer box: +1
+0.01 0.01 1
+0.02 0.02 -1 
+
+
